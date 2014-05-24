@@ -19,7 +19,6 @@ Template.body.rendered = function(e) {
 	   minFont   : 12,
 	   maxFont   : 40,
 	   fontRatio : 30,
-	   lineRatio : 1.45
 	});
 }
 ```
